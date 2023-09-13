@@ -3,9 +3,9 @@ const config = {
      * You can use this tool http://heymind.github.io/tools/microsoft-graph-api-auth
      * to get following params: client_id, client_secret, refresh_token & redirect_uri.
      */
-    "refresh_token": "",
-    "client_id": "",
-    "client_secret": "",
+    "refresh_token": "0.AUoAFLqhQAgidEqgjI-fGG2aH9llVrGm7ZJAhTkO7Ddq_VmJAPQ.AgABAAEAAAAtyolDObpQQ5VtlI4uGjEPAgDs_wUA9P_iEWGon6MHRtYcBQRDFMu6uYus3ROpycyCn357I1wUPX-YC1nFpxG6NiycXAS4L7ppAczid7uMVE_lTPfqnPfrJWhOAieNfqlQoDFVn1cnV0AwuyflAi5eGMsCnzdh1U-pMpm79n-GiGQe_UPikUan-FufCo7yxAxPXHL-8Is6XeLpRSoT4Dr4jd5ZihiypNIDBHebI_itn3iK7wD5ZsoNQsUNu9ZFNkmqfSJmKZ6vyO4UiNeyy1BcoPdFwP8sVpETtt5fV0T6nJ-w3qMUO56pehvuLtx-PkS_EpwYklUpLj7epGQ8jGvVQBvjYnRu39n4HKRnGf2N8ogFSLi4RD29jn7tQZ2za6r4o_IpxURQnNVKVG-pZMM6YM3gpsBtsbthfbHC1LDXLHhUxiVBbPSzjPDbdL5dsgCFNbeKBRqC2OC-ernPUxeVN16oGZ8I3NyU5cuAH-WL0mVx2ny_mabCxiVIOlBVHGpho_BJ1E6x6EnvxH2osY5DDKH5pRfnCgp5Bc_dBUTPghRwa8-rIp8mlPntkXB0kDrUihzBJiEvimcbVKN-z-q71EY30iHN0LIV5o24oTM6fRFCSfavB-QQQWJCjglVXCt9e0B5a7ZvHzDITDL15HA_cF_22ieCAQ16TIa3gFp_I-4yVnNtBPgCmG8VwimFrc3TOlaNcfymSQDTgt8DQwwVmWs_gwEHwVzwK4h7OEwQj4FCmmtQAHwFToT-FjkDxF2tVJhKDdNhWEAfEgU5eE_7","expiry":"2023-09-13T11:43:28.4039751+05:30",
+    "client_id": "819a3b08-c346-4d5f-b054-91e925969f0e",
+    "client_secret": "e0cef025-79cc-4824-bbd2-8917c1d5d771",
     "redirect_uri": "https://heymind.github.io/tools/microsoft-graph-api-auth",
     /**
      * The base path for indexing, all files and subfolders are public by this tool. For example `/Share`.
